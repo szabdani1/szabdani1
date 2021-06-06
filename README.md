@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @szabdani1
+- 👀 I’m interested in Javascript, React and Frontend stuffs.
+- 🌱 I’m currently learning to get my first job.
