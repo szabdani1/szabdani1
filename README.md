@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @szabdani1
-- 👀 I’m interested in Javascript, React and Frontend stuffs.
-- 🌱 I’m currently learning to get my first job.
+- 👀 I’m interested in .Net, Javascript, React and Frontend stuffs.
+- 🌱 Interested in any kind of project, the main goal is to learn.
